@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddhant Dhomne
  I’m interested in Web Dev...
  I’m currently learning Java and DSA
- constact me on IG- _siddhant0_
+ contact me on IG- _siddhant0_
 
 
 <!---
